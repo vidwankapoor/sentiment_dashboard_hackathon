@@ -1,0 +1,79 @@
+[
+    {
+        "sender": "izu@gmail.com",
+        "subject": "I want a leave",
+        "body": "I asked for the leave from past 8 days but not getting reply.",
+        "emotion": "sadness",
+        "timestamp": "2025-07-21 15:05:46.909794"
+    },
+    {
+        "sender": "vidwan@gmail.com",
+        "subject": "I am so excited about the trip.",
+        "body": "I want to know more details about my trip. I am so happy.",
+        "emotion": "joy",
+        "timestamp": "2025-07-21 15:16:33.103396"
+    },
+    {
+        "sender": "izu@gmail.com",
+        "subject": "I am not happy",
+        "body": "I want to leave",
+        "emotion": "sadness",
+        "timestamp": "2025-07-21 15:17:34.992254"
+    },
+    {
+        "sender": "izu@gmail.com",
+        "subject": "I am not satisfied",
+        "body": "I dont want to work in this company",
+        "emotion": "sadness",
+        "timestamp": "2025-07-21 15:18:18.599131"
+    },
+    {
+        "sender": "vid@gmail.com",
+        "subject": "I want a leave but it is not getting approved. ",
+        "body": "I need my confirmation for leave asap.",
+        "emotion": "sadness",
+        "timestamp": "2025-07-21 20:51:48.476080"
+    },
+    {
+        "sender": "vid@gmail.com",
+        "subject": "I am so excited about leave",
+        "body": "I am going on a avacation.",
+        "emotion": "neutral",
+        "timestamp": "2025-07-21 20:52:31.952059"
+    },
+    {
+        "sender": "vid@gmail.com",
+        "subject": "I am so excited about leave",
+        "body": "I am going on a vacation.",
+        "emotion": "joy",
+        "timestamp": "2025-07-21 20:52:44.275997"
+    },
+    {
+        "sender": "amit@gmail.com",
+        "subject": "I am sick",
+        "body": "I want a sick leave i am not feeling well",
+        "emotion": "sadness",
+        "timestamp": "2025-07-21 20:56:25.345506"
+    },
+    {
+        "sender": "amit@gmail.com",
+        "subject": "I am happy",
+        "body": "I want to have fun on our upcoming office trip",
+        "emotion": "joy",
+        "timestamp": "2025-07-21 20:56:55.197059"
+    },
+    {
+        "sender": "rruchi@gmail.com",
+        "subject": "I want a sick leave because i am sick.",
+        "body": "I really request you to grant me some slack for holidays as i am really exhausted.",
+        "emotion": "sadness",
+        "timestamp": "2025-07-21 21:02:52.320617"
+    },
+    {
+        "sender": "rruchi@gmail.com",
+        "subject": "I am really grateful for the increment",
+        "body": "I am really grateful for the increment. Thankyou for considering me.",
+        "emotion": "joy",
+        "timestamp": "2025-07-21 21:03:29.076193"
+    }
+]
